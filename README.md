@@ -1,7 +1,7 @@
 # mini_untztrument
 an altered version of the Adafruit mini Untztrument example code
 
-        ![photo](mini_untztrument/f376bfcd8963033-a-nw-p.jpg)
+        ![photo](https://github.com.albinger/mini_untztrument/f376bfcd8963033-a-nw-p.jpg "Andrew's mini-Untztrument" )
       
 ## Changes:
 
