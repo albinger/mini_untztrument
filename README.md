@@ -1,6 +1,8 @@
 # mini_untztrument
 an altered version of the Adafruit mini Untztrument example code
 
+        ![photo](mini_untztrument/f376bfcd8963033-a-nw-p.jpg)
+      
 ## Changes:
 
 * simplified to 1 trellis for mini-untz
